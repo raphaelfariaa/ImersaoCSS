@@ -1,0 +1,53 @@
+.site-title{
+    text-align: center;
+    color: white;
+
+}
+
+.site-subtitle{
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-color: black;
+    background-position: top;
+    background-size: auto 32vh ;
+}
+
+h2 {
+    color: white;
+}
+
+.Menu {
+    font-family: fantasy;
+}
+
+.Menu li {
+    list-style: none;
+}
+
+.Menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
