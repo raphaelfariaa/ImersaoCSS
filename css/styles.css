@@ -94,7 +94,7 @@ p{
     background-color: white;
 }
 
-.contact .grid {
+.grid-contato {
     display: grid;
     gap: 2em;
     grid-template-columns: repeat(4, 1fr);
@@ -104,21 +104,18 @@ p{
     cursor: pointer;
 }
 
-.contact .grid a {
-    display: grid;
-    justify-content: center;
-    text-decoration: none;
-}
-
-.contact i {
-    font-size: 2em;
-    justify-self: center;
-
-}
-
-.contact a {
+.grid-contato a  {
     text-decoration: none;
     color: red;
+    display: grid;
+    justify-content: center;
+    font-size: 2em;
+    justify-self: center;
+}
+
+.grid-contato i {
+    font-size: 2em;
+    justify-self: center;
 }
 
 .oracle-pic,
