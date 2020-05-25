@@ -46,7 +46,7 @@ a:hover{
     text-decoration: underline;
 }
 
-.cursos
+.cursos,
 figcaption,
 p{
     color: white;
@@ -121,6 +121,10 @@ p{
     color: red;
 }
 
+.oracle-pic,
+.mysql-pic,
+.sqlserver-pic,
+.linux-pic,
 .csharp,
 .C,
 .javascript-pic,
@@ -129,7 +133,8 @@ p{
 .nodejs-pic,
 .angular-pic,
 .react-pic,
-.java-pic {
+.java-pic,
+.git-pic {
     width: 150px;
     border: 4px solid white;
     border-radius: 200px;
