@@ -149,3 +149,12 @@ p{
     align-self: center;
     margin-bottom: 24px;
 }
+
+.grid-tecnologias {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.grid-tecnologia {
+  text-align: center;
+}
