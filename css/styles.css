@@ -147,11 +147,9 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     align-self: center;
     margin-bottom: 24px;
-<<<<<<< HEAD
     justify-content: space-around;
     padding: 20px;
     text-align: justify;
-=======
 }
 
 .grid-tecnologias {
@@ -162,5 +160,4 @@ p{
 .grid-tecnologia {
 	text-align: center;
 	margin-bottom: 30px;
->>>>>>> 1f926af5345ce2b7b9d480bcaf51d88a424c71c2
 }
