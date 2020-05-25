@@ -151,10 +151,11 @@ p{
 }
 
 .grid-tecnologias {
-  display: grid;
-  grid-template-columns: auto auto auto;
+	display: grid;
+	grid-template-columns: auto auto auto;
 }
 
 .grid-tecnologia {
-  text-align: center;
+	text-align: center;
+	margin-bottom: 30px;
 }
